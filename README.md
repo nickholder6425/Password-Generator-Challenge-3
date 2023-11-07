@@ -10,5 +10,5 @@ Challenge #3 - Modified existing code to create application that enables employe
 
 Github: https://github.com/nickholder6425/Password-Generator-Challenge-3 
 
-URL:
+URL: https://nickholder6425.github.io/Password-Generator-Challenge-3/
 
