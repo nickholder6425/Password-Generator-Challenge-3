@@ -3,3 +3,8 @@
 ## Description
 
 Challenge #3 - Modified existing code to create application that enables employees to generate random passwords
+
+## Screenshot
+
+![Screenshoot](./assets/images/Password%20Generator%20Screenshoot.png)
+
